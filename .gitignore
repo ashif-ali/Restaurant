@@ -1,0 +1,23 @@
+# Ignore dependencies
+backend/node_modules/
+frontend/node_modules/
+*.node_modules
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+*.env
+.env.local
+.env.production
+
+# Build folders (when you add frontend code)
+frontend/build/
+frontend/dist/
+
+# OS / editor files
+.DS_Store
+.vscode/
