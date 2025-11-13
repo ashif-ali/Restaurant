@@ -6,8 +6,6 @@ This is a complete MERN stack application designed to manage a restaurant's oper
 
   * **Customer App:** [user-client2327.netlify.app](https://www.google.com/search?q=https://user-client2327.netlify.app)
   * **Restaurant Dashboard:** [restaurant-client2327.netlify.app](https://www.google.com/search?q=https://restaurant-client2327.netlify.app)
-  * **Backend API:** [https://restaurant-api-k7su.onrender.com](https://restaurant-api-k7su.onrender.com)
-
 -----
 
 ## ✨ Key Features
